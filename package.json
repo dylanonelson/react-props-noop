@@ -1,5 +1,9 @@
 {
   "name": "react-props-noop",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanonelson/react-props-noop"
+  },
   "version": "1.0.0",
   "description": "Default props for function props",
   "main": "index.js",
