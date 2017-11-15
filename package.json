@@ -1,0 +1,8 @@
+{
+  "name": "react-props-noop",
+  "version": "1.0.0",
+  "description": "Default props for function props",
+  "main": "index.js",
+  "author": "Dylan Nelson",
+  "license": "ISC"
+}
